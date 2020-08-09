@@ -1,0 +1,7 @@
+#! /usr/bin/sh
+sudo rm -rf /usr/fotiaoqiang
+echo "The uninstallation is complete.
+Linux version Author: Giggle
+Email: zhiyiren2009@gmail.com
+The original author, the official website of Fotiaoqiang: https://fotiaoqiang.io/
+Email: ftqfeedbackmail@protonmail.com"

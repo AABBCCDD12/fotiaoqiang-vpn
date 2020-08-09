@@ -1,0 +1,15 @@
+#! /usr/bin/sh
+echo "Please type fotiaoqiang in the terminal to run it."
+sudo apt install wine
+sudo mkdir /usr/fotiaoqiang
+sudo cp ./fotiaoqiang /usr/fotiaoqiang
+sudo cp ./fotiaoqiang.exe /usr/fotiaoqiang
+sudo cp ./uninstall /usr/fotiaoqiang
+sudo chmod +x /usr/fotiaoqiang/uninstall
+sudo chmod +x /usr/fotiaoqiang/fotiaoqiang
+sudo ln -s /usr/fotiaoqiang/fotiaoqiang /usr/bin
+echo "The installation is complete.
+Linux version Author: Giggle
+Email: zhiyiren2009@gmail.com
+The original author, the official website of Fotiaoqiang: https://fotiaoqiang.io/
+Email: ftqfeedbackmail@protonmail.com"

@@ -1,1 +1,0 @@
-# fotiaoqiang-vpn-for-linux
